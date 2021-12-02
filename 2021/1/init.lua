@@ -18,5 +18,3 @@ end
 
 print(Count(nums, 1)) -- part 1
 print(Count(nums, 3)) -- part 2
-
-
